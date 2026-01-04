@@ -10,10 +10,10 @@ Utility of the Project:-
 This project is useful for beginners to learn how arrays and functions are used to manage data in a simple reservation system.
 
 Features:-
-Seat availability display
-Ticket booking
-Ticket cancellation
-Menu-driven program
+Seat availability display,
+Ticket booking,
+Ticket cancellation,
+Menu-driven program,
 Total seats :10
 
 Future Scope:-
